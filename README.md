@@ -1,6 +1,6 @@
 ## Hi, I'm Mark 👋
 
-Microsoft 365 consultant and C#/.NET developer, also work with the odd bit of PHP/WordPress, building practical tools for real-world workflows.
+Solo C#/.NET developer. I build practical tools for Microsoft 365 Business and small-business day-to-day ops. Passionate about open source: I design, ship, and keep a lot of that work maintained.
 
 ## 🔧 What I'm working on
 
@@ -15,16 +15,17 @@ This includes:
 
 ## 🤖 How I work
 
-My development workflow is supported by AI-driven automation, helping keep projects structured and up to date:
+I'm a solo developer. I use AI coding tools openly, not instead of knowing how to build, but because one person can't do everything alone, and they help more of the right work actually ship.
+
+My automation and workflow setup lives here:
 
 👉 https://github.com/markheydon/github-workflows
 
-This is a practical, real-world approach to using AI to assist software delivery -- not just code generation.
-
 ## 🚀 Key projects
 
-- FreeAgent.NET – API client and integrations for FreeAgent.
-- Solo Dev Board – multi-repo workflow tool.
+- [SoloDevBoard](https://github.com/markheydon/solo-dev-board) – multi-repo GitHub workflow tool.
+- [Import To Planner](https://github.com/markheydon/import-to-planner) – CSV into Microsoft Planner, with preview before write.
+- [freeagent-dotnet](https://github.com/markheydon/freeagent-dotnet) – API client for FreeAgent.
 - Various automation utilities and experiments.
 
 ## ❤️ Supporting my work
@@ -33,4 +34,4 @@ If you find my work useful, you can support it via GitHub Sponsors:
 
 👉 https://github.com/sponsors/markheydon
 
-It helps me continue building, maintaining, and improving the projects tracked on this board.
+It helps fund hosting, CI, and ongoing maintenance of the public tools on this board. Open source alone doesn't pay the bills, but sponsorship and paid work help keep that work production-quality.
